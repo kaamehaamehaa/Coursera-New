@@ -1,0 +1,38 @@
+
+.navbar{
+	height: 100px;
+	margin-bottom: 30px;
+}
+.navbar-brand{
+	margin-top: -10px; 
+}
+h2{
+	color: blue;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+#content1, #content2, #content3 {
+	padding: 20px;
+	border: 1px red solid;
+    font-size: 1.5em;
+	margin: 20px;
+}
+#content1{
+	background-color: green;
+}
+#content2 {
+	background-color: #ed7474;
+}
+#content3 {
+	background-color: #edb10c;
+}
+#collapsable-nav{
+	background-color: #f9f9f9;
+}
+
+.navbar-header button.navbar-toggle{
+	clear: both;
+}
+#collapsable-nav li{
+	font-size: 1.5em;
+}
